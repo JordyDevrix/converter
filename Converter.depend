@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669330944 source:c:\users\2109j\documents\converter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+
